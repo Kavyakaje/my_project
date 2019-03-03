@@ -2,11 +2,11 @@
 void add(){
 printf("added");
 }
-void div(){
-printf("division");
+void mul(){
+printf("multiplication");
 }
 void main()
 {
 add();
-div();
+mul();
 }
